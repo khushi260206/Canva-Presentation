@@ -1,4 +1,4 @@
-# Canva-Presentations
+# Archivastu Presentation
 
 This project contains a structured pitch deck created for a campus Ideathon.
 It presents ArchiVastu, a conceptual solution that blends architecture with cosmic balance.
